@@ -34,3 +34,5 @@ Voice Commands:
 "Speak!"
 
 "Grasp Things!"
+
+"¡LECHUGA!"
